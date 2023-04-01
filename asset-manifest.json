@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/emeraud-restaurant-page/static/css/main.e7b1c565.css",
+    "main.js": "/emeraud-restaurant-page/static/js/main.60164e17.js",
+    "static/media/meal.mp4": "/emeraud-restaurant-page/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "static/media/bg.png": "/emeraud-restaurant-page/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/welcome.png": "/emeraud-restaurant-page/static/media/welcome.9cdb33bd550a4a821581.png",
+    "static/media/findus.png": "/emeraud-restaurant-page/static/media/findus.a6cea3f77bb107532eb4.png",
+    "static/media/menu.png": "/emeraud-restaurant-page/static/media/menu.a8287c67809afebcc280.png",
+    "static/media/chef.png": "/emeraud-restaurant-page/static/media/chef.7e1cce429d06d7c67a8a.png",
+    "static/media/gallery04.png": "/emeraud-restaurant-page/static/media/gallery04.c36a695f8a3b9d311106.png",
+    "static/media/gallery03.png": "/emeraud-restaurant-page/static/media/gallery03.b2d50180e8590d4dd330.png",
+    "static/media/laurels.png": "/emeraud-restaurant-page/static/media/laurels.c47d022f4790403d462d.png",
+    "static/media/gallery02.png": "/emeraud-restaurant-page/static/media/gallery02.27663bd9016b72ccd328.png",
+    "static/media/gallery01.png": "/emeraud-restaurant-page/static/media/gallery01.f2cbffe3049d6f91e0df.png",
+    "static/media/knife.png": "/emeraud-restaurant-page/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/overlaybg.png": "/emeraud-restaurant-page/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/award02.png": "/emeraud-restaurant-page/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/emeraud-restaurant-page/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/emeraud-restaurant-page/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/emeraud-restaurant-page/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "static/media/sign.png": "/emeraud-restaurant-page/static/media/sign.9bf0bd90ad4caa17991f.png",
+    "static/media/spoon.svg": "/emeraud-restaurant-page/static/media/spoon.0279c470af9c4ba8c43452171ddbeeac.svg",
+    "index.html": "/emeraud-restaurant-page/index.html",
+    "main.e7b1c565.css.map": "/emeraud-restaurant-page/static/css/main.e7b1c565.css.map",
+    "main.60164e17.js.map": "/emeraud-restaurant-page/static/js/main.60164e17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7b1c565.css",
+    "static/js/main.60164e17.js"
+  ]
+}
