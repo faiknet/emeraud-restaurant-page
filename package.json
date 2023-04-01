@@ -2,7 +2,7 @@
   "name": "emeraud-restaurant-page",
   "version": "0.2.0",
   "private": true,
-  "homepage": "https://faiknet.github.io/emeraud-restaurant-page/",
+  "homepage": "http://faiknet.github.io/emeraud-restaurant-page",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
