@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/emeraud-restaurant-page/static/css/main.e7b1c565.css",
-    "main.js": "/emeraud-restaurant-page/static/js/main.60164e17.js",
+    "main.css": "/emeraud-restaurant-page/static/css/main.4a7835a4.css",
+    "main.js": "/emeraud-restaurant-page/static/js/main.dc85f7dd.js",
     "static/media/meal.mp4": "/emeraud-restaurant-page/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
     "static/media/bg.png": "/emeraud-restaurant-page/static/media/bg.3d421b1b5682e1b67deb.png",
     "static/media/welcome.png": "/emeraud-restaurant-page/static/media/welcome.9cdb33bd550a4a821581.png",
@@ -22,11 +22,11 @@
     "static/media/sign.png": "/emeraud-restaurant-page/static/media/sign.9bf0bd90ad4caa17991f.png",
     "static/media/spoon.svg": "/emeraud-restaurant-page/static/media/spoon.0279c470af9c4ba8c43452171ddbeeac.svg",
     "index.html": "/emeraud-restaurant-page/index.html",
-    "main.e7b1c565.css.map": "/emeraud-restaurant-page/static/css/main.e7b1c565.css.map",
-    "main.60164e17.js.map": "/emeraud-restaurant-page/static/js/main.60164e17.js.map"
+    "main.4a7835a4.css.map": "/emeraud-restaurant-page/static/css/main.4a7835a4.css.map",
+    "main.dc85f7dd.js.map": "/emeraud-restaurant-page/static/js/main.dc85f7dd.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7b1c565.css",
-    "static/js/main.60164e17.js"
+    "static/css/main.4a7835a4.css",
+    "static/js/main.dc85f7dd.js"
   ]
 }
